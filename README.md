@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Salman Khan</h1>
 <h3 align="center">A full-stack web developer based in Pakistan, with over 3 years of experience building enterprise websites from scratch to production. I pride myself on creating well-documented, optimised, and refactored code that delivers top-tier functionality.</h3>
 
-- 🌱 I’m currently learning **node, react-native**
-
 - 💬 Ask me about **react, next, svelte and vue**
 
 - 📫 How to reach me **msalman2k1@gmail.com**
